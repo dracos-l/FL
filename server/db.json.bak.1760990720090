@@ -1,0 +1,241 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Washed Up",
+      "elo": 1483,
+      "plus_minus": -15,
+      "created_at": "2025-10-20T19:42:47.972Z"
+    },
+    {
+      "id": 2,
+      "name": "Them",
+      "elo": 1528,
+      "plus_minus": 15,
+      "created_at": "2025-10-20T19:43:30.960Z"
+    },
+    {
+      "id": 3,
+      "name": "Naked Lap",
+      "elo": 1499,
+      "plus_minus": 9,
+      "created_at": "2025-10-20T19:43:34.290Z"
+    },
+    {
+      "id": 4,
+      "name": "Ethnically Ambiguous",
+      "elo": 1518,
+      "plus_minus": 6,
+      "created_at": "2025-10-20T19:43:39.293Z"
+    },
+    {
+      "id": 5,
+      "name": "Queefcakes",
+      "elo": 1500,
+      "plus_minus": 0,
+      "created_at": "2025-10-20T19:43:46.084Z"
+    },
+    {
+      "id": 6,
+      "name": "Lara Croft",
+      "elo": 1500,
+      "plus_minus": 0,
+      "created_at": "2025-10-20T19:43:50.190Z"
+    },
+    {
+      "id": 7,
+      "name": "Jerenswald",
+      "elo": 1472,
+      "plus_minus": -15,
+      "created_at": "2025-10-20T19:43:55.090Z"
+    },
+    {
+      "id": 8,
+      "name": "Big Batty",
+      "elo": 1500,
+      "plus_minus": 0,
+      "created_at": "2025-10-20T19:44:00.670Z"
+    },
+    {
+      "id": 9,
+      "name": "Fat Retard",
+      "elo": 1500,
+      "plus_minus": 0,
+      "created_at": "2025-10-20T19:44:05.724Z"
+    },
+    {
+      "id": 10,
+      "name": "Grifters",
+      "elo": 1500,
+      "plus_minus": 0,
+      "created_at": "2025-10-20T19:44:08.990Z"
+    },
+    {
+      "id": 11,
+      "name": "F*****trons",
+      "elo": 1500,
+      "plus_minus": 0,
+      "created_at": "2025-10-20T19:44:13.718Z"
+    },
+    {
+      "id": 12,
+      "name": "Clark/Hog",
+      "elo": 1500,
+      "plus_minus": 0,
+      "created_at": "2025-10-20T19:44:17.798Z"
+    },
+    {
+      "id": 13,
+      "name": "Owen Thomas",
+      "elo": 1500,
+      "plus_minus": 0,
+      "created_at": "2025-10-20T19:44:21.464Z"
+    },
+    {
+      "id": 14,
+      "name": "Fidel Castro",
+      "elo": 1500,
+      "plus_minus": 0,
+      "created_at": "2025-10-20T19:44:25.509Z"
+    },
+    {
+      "id": 15,
+      "name": "Black and Yellow",
+      "elo": 1500,
+      "plus_minus": 0,
+      "created_at": "2025-10-20T19:44:29.873Z"
+    },
+    {
+      "id": 16,
+      "name": "Ale-Qaeda",
+      "elo": 1500,
+      "plus_minus": 0,
+      "created_at": "2025-10-20T19:44:36.220Z"
+    },
+    {
+      "id": 17,
+      "name": "SLAK",
+      "elo": 1500,
+      "plus_minus": 0,
+      "created_at": "2025-10-20T19:44:39.083Z"
+    },
+    {
+      "id": 18,
+      "name": "The Bombers",
+      "elo": 1500,
+      "plus_minus": 0,
+      "created_at": "2025-10-20T19:44:41.850Z"
+    },
+    {
+      "id": 19,
+      "name": "Pounders",
+      "elo": 1500,
+      "plus_minus": 0,
+      "created_at": "2025-10-20T19:44:44.125Z"
+    }
+  ],
+  "matches": [
+    {
+      "id": 2,
+      "team_a_id": 3,
+      "team_b_id": 1,
+      "score_a": 10,
+      "score_b": 6,
+      "elo_change_a": 16,
+      "elo_change_b": -16,
+      "created_at": "2025-10-20T19:49:03.551Z"
+    },
+    {
+      "id": 3,
+      "team_a_id": 3,
+      "team_b_id": 1,
+      "score_a": 10,
+      "score_b": 4,
+      "elo_change_a": 10,
+      "elo_change_b": -10,
+      "created_at": "2025-10-20T19:50:19.772Z"
+    },
+    {
+      "id": 4,
+      "team_a_id": 3,
+      "team_b_id": 1,
+      "score_a": 10,
+      "score_b": 5,
+      "elo_change_a": 9,
+      "elo_change_b": -9,
+      "created_at": "2025-10-20T19:50:32.035Z"
+    },
+    {
+      "id": 5,
+      "team_a_id": 4,
+      "team_b_id": 1,
+      "score_a": 10,
+      "score_b": 5,
+      "elo_change_a": 9,
+      "elo_change_b": -9,
+      "created_at": "2025-10-20T19:50:45.917Z"
+    },
+    {
+      "id": 6,
+      "team_a_id": 4,
+      "team_b_id": 3,
+      "score_a": 10,
+      "score_b": 9,
+      "elo_change_a": 10,
+      "elo_change_b": -10,
+      "created_at": "2025-10-20T19:51:34.208Z"
+    },
+    {
+      "id": 7,
+      "team_a_id": 1,
+      "team_b_id": 4,
+      "score_a": 10,
+      "score_b": 9,
+      "elo_change_a": 11,
+      "elo_change_b": -11,
+      "created_at": "2025-10-20T19:52:01.264Z"
+    },
+    {
+      "id": 8,
+      "team_a_id": 4,
+      "team_b_id": 3,
+      "score_a": 10,
+      "score_b": 9,
+      "elo_change_a": 10,
+      "elo_change_b": -10,
+      "created_at": "2025-10-20T19:52:16.634Z"
+    },
+    {
+      "id": 9,
+      "team_a_id": 2,
+      "team_b_id": 7,
+      "score_a": 10,
+      "score_b": 4,
+      "elo_change_a": 10,
+      "elo_change_b": -10,
+      "created_at": "2025-10-20T19:52:32.188Z"
+    },
+    {
+      "id": 10,
+      "team_a_id": 2,
+      "team_b_id": 7,
+      "score_a": 10,
+      "score_b": 5,
+      "elo_change_a": 9,
+      "elo_change_b": -9,
+      "created_at": "2025-10-20T19:52:42.576Z"
+    },
+    {
+      "id": 11,
+      "team_a_id": 2,
+      "team_b_id": 7,
+      "score_a": 10,
+      "score_b": 6,
+      "elo_change_a": 9,
+      "elo_change_b": -9,
+      "created_at": "2025-10-20T19:52:52.592Z"
+    }
+  ],
+  "nextTeamId": 20,
+  "nextMatchId": 12
+}
