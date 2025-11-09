@@ -3,19 +3,19 @@
     {
       "id": 1,
       "name": "Washed Up",
-      "elo": 1476.6,
-      "plus_minus": -18,
+      "elo": 1438.980859295125,
+      "plus_minus": -29,
       "wins": 5,
-      "losses": 8,
+      "losses": 12,
       "created_at": "2025-10-20T19:42:47.972Z"
     },
     {
       "id": 2,
       "name": "Them",
-      "elo": 1519.02,
-      "plus_minus": 14,
-      "wins": 3,
-      "losses": 1,
+      "elo": 1597.9891407266368,
+      "plus_minus": 49,
+      "wins": 18,
+      "losses": 5,
       "created_at": "2025-10-20T19:43:30.960Z"
     },
     {
@@ -57,19 +57,19 @@
     {
       "id": 7,
       "name": "Jerenswald",
-      "elo": 1461.06,
-      "plus_minus": -13,
-      "wins": 1,
-      "losses": 5,
+      "elo": 1474.6837225816328,
+      "plus_minus": -10,
+      "wins": 7,
+      "losses": 12,
       "created_at": "2025-10-20T19:43:55.090Z"
     },
     {
       "id": 8,
       "name": "Big Batty",
-      "elo": 1543.26,
-      "plus_minus": 7,
-      "wins": 8,
-      "losses": 2,
+      "elo": 1535.3270590259394,
+      "plus_minus": 0,
+      "wins": 15,
+      "losses": 8,
       "created_at": "2025-10-20T19:44:00.670Z"
     },
     {
@@ -84,10 +84,10 @@
     {
       "id": 10,
       "name": "Grifters",
-      "elo": 1528.13,
-      "plus_minus": 1,
-      "wins": 4,
-      "losses": 1,
+      "elo": 1524.2101163411955,
+      "plus_minus": -2,
+      "wins": 6,
+      "losses": 4,
       "created_at": "2025-10-20T19:44:08.990Z"
     },
     {
@@ -147,10 +147,10 @@
     {
       "id": 17,
       "name": "SLAK",
-      "elo": 1500,
-      "plus_minus": 0,
-      "wins": 0,
-      "losses": 0,
+      "elo": 1505.1860541338274,
+      "plus_minus": 9,
+      "wins": 3,
+      "losses": 3,
       "created_at": "2025-10-20T19:44:39.083Z"
     },
     {
@@ -165,10 +165,10 @@
     {
       "id": 19,
       "name": "Pounders",
-      "elo": 1482.61,
-      "plus_minus": -6,
+      "elo": 1434.303047895643,
+      "plus_minus": -32,
       "wins": 3,
-      "losses": 6,
+      "losses": 12,
       "created_at": "2025-10-20T19:44:44.125Z"
     }
   ],
@@ -632,8 +632,338 @@
       "elo_change_winner": 9.95,
       "elo_change_loser": -9.95,
       "created_at": "2025-10-27T03:14:47.624Z"
+    },
+    {
+      "id": 51,
+      "winner_id": 8,
+      "loser_id": 17,
+      "loser_score": 1,
+      "winner_score": 10,
+      "elo_change_winner": 8.761271966069252,
+      "elo_change_loser": -8.761271966069254,
+      "created_at": "2025-11-01T23:57:22.355Z"
+    },
+    {
+      "id": 52,
+      "winner_id": 8,
+      "loser_id": 19,
+      "loser_score": 2,
+      "winner_score": 10,
+      "elo_change_winner": 8.02834484356854,
+      "elo_change_loser": -8.028344843568538,
+      "created_at": "2025-11-01T23:57:37.168Z"
+    },
+    {
+      "id": 53,
+      "winner_id": 8,
+      "loser_id": 17,
+      "loser_score": 0,
+      "winner_score": 10,
+      "elo_change_winner": 8.044959141896097,
+      "elo_change_loser": -8.044959141896097,
+      "created_at": "2025-11-01T23:57:45.430Z"
+    },
+    {
+      "id": 54,
+      "winner_id": 8,
+      "loser_id": 19,
+      "loser_score": 4,
+      "winner_score": 10,
+      "elo_change_winner": 7.371645723337943,
+      "elo_change_loser": -7.3716457233379415,
+      "created_at": "2025-11-01T23:57:54.705Z"
+    },
+    {
+      "id": 55,
+      "winner_id": 17,
+      "loser_id": 19,
+      "loser_score": 2,
+      "winner_score": 10,
+      "elo_change_winner": 9.540274705470072,
+      "elo_change_loser": -9.54027470547007,
+      "created_at": "2025-11-01T23:58:07.327Z"
+    },
+    {
+      "id": 56,
+      "winner_id": 17,
+      "loser_id": 8,
+      "loser_score": 2,
+      "winner_score": 10,
+      "elo_change_winner": 12.337214481881675,
+      "elo_change_loser": -12.337214481881675,
+      "created_at": "2025-11-01T23:58:58.453Z"
+    },
+    {
+      "id": 57,
+      "winner_id": 8,
+      "loser_id": 17,
+      "loser_score": 1,
+      "winner_score": 10,
+      "elo_change_winner": 8.344345665935597,
+      "elo_change_loser": -8.344345665935597,
+      "created_at": "2025-11-01T23:59:11.485Z"
+    },
+    {
+      "id": 58,
+      "winner_id": 2,
+      "loser_id": 7,
+      "loser_score": 0,
+      "winner_score": 10,
+      "elo_change_winner": 8.347082117051212,
+      "elo_change_loser": -8.347082117051214,
+      "created_at": "2025-11-01T23:59:39.942Z"
+    },
+    {
+      "id": 59,
+      "winner_id": 2,
+      "loser_id": 8,
+      "loser_score": 5,
+      "winner_score": 10,
+      "elo_change_winner": 11.262704627160499,
+      "elo_change_loser": -11.262704627160495,
+      "created_at": "2025-11-01T23:59:48.657Z"
+    },
+    {
+      "id": 60,
+      "winner_id": 2,
+      "loser_id": 19,
+      "loser_score": 6,
+      "winner_score": 10,
+      "elo_change_winner": 7.711062306047271,
+      "elo_change_loser": -7.711062306047271,
+      "created_at": "2025-11-01T23:59:58.511Z"
+    },
+    {
+      "id": 61,
+      "winner_id": 2,
+      "loser_id": 1,
+      "loser_score": 6,
+      "winner_score": 10,
+      "elo_change_winner": 8.019229320871801,
+      "elo_change_loser": -8.0192293208718,
+      "created_at": "2025-11-02T00:00:07.510Z"
+    },
+    {
+      "id": 62,
+      "winner_id": 2,
+      "loser_id": 8,
+      "loser_score": 5,
+      "winner_score": 10,
+      "elo_change_winner": 10.168377022035756,
+      "elo_change_loser": -10.168377022035756,
+      "created_at": "2025-11-02T00:00:15.803Z"
+    },
+    {
+      "id": 63,
+      "winner_id": 2,
+      "loser_id": 10,
+      "loser_score": 1,
+      "winner_score": 10,
+      "elo_change_winner": 8.95618418741825,
+      "elo_change_loser": -8.95618418741825,
+      "created_at": "2025-11-04T21:40:38.648Z"
+    },
+    {
+      "id": 64,
+      "winner_id": 10,
+      "loser_id": 2,
+      "loser_score": 2,
+      "winner_score": 10,
+      "elo_change_winner": 11.550581858192444,
+      "elo_change_loser": -11.550581858192444,
+      "created_at": "2025-11-04T21:40:50.109Z"
+    },
+    {
+      "id": 65,
+      "winner_id": 7,
+      "loser_id": 1,
+      "loser_score": 3,
+      "winner_score": 10,
+      "elo_change_winner": 10.456396232351711,
+      "elo_change_loser": -10.456396232351711,
+      "created_at": "2025-11-04T21:40:59.795Z"
+    },
+    {
+      "id": 66,
+      "winner_id": 7,
+      "loser_id": 1,
+      "loser_score": 1,
+      "winner_score": 10,
+      "elo_change_winner": 9.854805168445047,
+      "elo_change_loser": -9.854805168445047,
+      "created_at": "2025-11-04T21:41:06.957Z"
+    },
+    {
+      "id": 67,
+      "winner_id": 7,
+      "loser_id": 1,
+      "loser_score": 1,
+      "winner_score": 10,
+      "elo_change_winner": 9.2887099832066,
+      "elo_change_loser": -9.2887099832066,
+      "created_at": "2025-11-04T21:41:16.736Z"
+    },
+    {
+      "id": 68,
+      "winner_id": 2,
+      "loser_id": 10,
+      "loser_score": 2,
+      "winner_score": 10,
+      "elo_change_winner": 9.104122146798124,
+      "elo_change_loser": -9.104122146798124,
+      "created_at": "2025-11-04T21:41:25.744Z"
+    },
+    {
+      "id": 69,
+      "winner_id": 2,
+      "loser_id": 7,
+      "loser_score": 1,
+      "winner_score": 10,
+      "elo_change_winner": 7.500381798875373,
+      "elo_change_loser": -7.500381798875372,
+      "created_at": "2025-11-04T21:41:32.856Z"
+    },
+    {
+      "id": 70,
+      "winner_id": 10,
+      "loser_id": 2,
+      "loser_score": 1,
+      "winner_score": 10,
+      "elo_change_winner": 11.623739749966875,
+      "elo_change_loser": -11.623739749966875,
+      "created_at": "2025-11-09T15:13:41.912Z"
+    },
+    {
+      "id": 71,
+      "winner_id": 8,
+      "loser_id": 19,
+      "loser_score": 5,
+      "winner_score": 10,
+      "elo_change_winner": 7.196482805556559,
+      "elo_change_loser": -7.196482805556559,
+      "created_at": "2025-11-09T15:13:52.246Z"
+    },
+    {
+      "id": 72,
+      "winner_id": 2,
+      "loser_id": 10,
+      "loser_score": 3,
+      "winner_score": 10,
+      "elo_change_winner": 9.033898932747546,
+      "elo_change_loser": -9.033898932747546,
+      "created_at": "2025-11-09T15:14:01.856Z"
+    },
+    {
+      "id": 73,
+      "winner_id": 7,
+      "loser_id": 8,
+      "loser_score": 0,
+      "winner_score": 10,
+      "elo_change_winner": 12.328889988735305,
+      "elo_change_loser": -12.328889988735305,
+      "created_at": "2025-11-09T15:14:10.264Z"
+    },
+    {
+      "id": 74,
+      "winner_id": 8,
+      "loser_id": 7,
+      "loser_score": 0,
+      "winner_score": 10,
+      "elo_change_winner": 8.35244308376382,
+      "elo_change_loser": -8.35244308376382,
+      "created_at": "2025-11-09T15:14:18.483Z"
+    },
+    {
+      "id": 75,
+      "winner_id": 17,
+      "loser_id": 19,
+      "loser_score": 7,
+      "winner_score": 10,
+      "elo_change_winner": 8.45914172037669,
+      "elo_change_loser": -8.459141720376689,
+      "created_at": "2025-11-09T15:14:29.188Z"
+    },
+    {
+      "id": 76,
+      "winner_id": 7,
+      "loser_id": 2,
+      "loser_score": 4,
+      "winner_score": 10,
+      "elo_change_winner": 12.72579691167666,
+      "elo_change_loser": -12.72579691167666,
+      "created_at": "2025-11-09T15:14:40.281Z"
+    },
+    {
+      "id": 77,
+      "winner_id": 2,
+      "loser_id": 7,
+      "loser_score": 0,
+      "winner_score": 10,
+      "elo_change_winner": 7.964886690337307,
+      "elo_change_loser": -7.964886690337307,
+      "created_at": "2025-11-09T15:15:56.773Z"
+    },
+    {
+      "id": 78,
+      "winner_id": 2,
+      "loser_id": 7,
+      "loser_score": 2,
+      "winner_score": 10,
+      "elo_change_winner": 7.529745545422639,
+      "elo_change_loser": -7.529745545422638,
+      "created_at": "2025-11-09T15:16:09.136Z"
+    },
+    {
+      "id": 79,
+      "winner_id": 2,
+      "loser_id": 7,
+      "loser_score": 2,
+      "winner_score": 10,
+      "elo_change_winner": 7.127309146359506,
+      "elo_change_loser": -7.127309146359506,
+      "created_at": "2025-11-09T15:16:26.202Z"
+    },
+    {
+      "id": 80,
+      "winner_id": 7,
+      "loser_id": 2,
+      "loser_score": 1,
+      "winner_score": 10,
+      "elo_change_winner": 13.244522859913255,
+      "elo_change_loser": -13.244522859913255,
+      "created_at": "2025-11-09T15:16:44.799Z"
+    },
+    {
+      "id": 81,
+      "winner_id": 2,
+      "loser_id": 7,
+      "loser_score": 2,
+      "winner_score": 10,
+      "elo_change_winner": 7.453550180885619,
+      "elo_change_loser": -7.453550180885619,
+      "created_at": "2025-11-09T15:16:57.082Z"
+    },
+    {
+      "id": 82,
+      "winner_id": 2,
+      "loser_id": 8,
+      "loser_score": 1,
+      "winner_score": 10,
+      "elo_change_winner": 9.23040100449004,
+      "elo_change_loser": -9.230401004490043,
+      "created_at": "2025-11-09T15:17:05.277Z"
+    },
+    {
+      "id": 83,
+      "winner_id": 2,
+      "loser_id": 8,
+      "loser_score": 7,
+      "winner_score": 10,
+      "elo_change_winner": 8.704847079885285,
+      "elo_change_loser": -8.704847079885285,
+      "created_at": "2025-11-09T15:17:11.287Z"
     }
   ],
   "nextTeamId": 20,
-  "nextMatchId": 51
+  "nextMatchId": 84
 }
