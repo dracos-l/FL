@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fidelleague-dev-2379a-authRole",
+      "UnauthRoleArn": "arn:aws:iam::209668699656:role/amplify-fidelleague-dev-2379a-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::209668699656:role/amplify-fidelleague-dev-2379a-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-fidelleague-dev-2379a-deployment",
+      "UnauthRoleName": "amplify-fidelleague-dev-2379a-unauthRole",
+      "StackName": "amplify-fidelleague-dev-2379a",
+      "StackId": "arn:aws:cloudformation:us-east-1:209668699656:stack/amplify-fidelleague-dev-2379a/fdaddd30-bd87-11f0-b869-0e4e52b481b3",
+      "AmplifyAppId": "d3lg936yfiux2f"
+    },
+    "categories": {
+      "auth": {
+        "fidelleague5c98a5a2": {}
+      },
+      "function": {
+        "fidelLeagueBackendAPI": {
+          "deploymentBucketName": "amplify-fidelleague-dev-2379a-deployment",
+          "s3Key": "amplify-builds/fidelLeagueBackendAPI-48456f38362b486e6132-build.zip"
+        }
+      },
+      "storage": {
+        "jsonStorage": {}
+      },
+      "api": {
+        "fidelLeagueAPI": {}
+      }
+    }
+  }
+}
